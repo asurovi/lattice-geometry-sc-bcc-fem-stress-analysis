@@ -1,0 +1,4 @@
+
+Due to file size limitations, Abaqus input file for body-cenetered lattice is available here:
+
+https://drive.google.com/drive/u/1/folders/1DPFlFXl-VHCAoWQOu7uScnH0zMKX3SJa
