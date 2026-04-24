@@ -1,4 +1,4 @@
 # Finite Element Comparison of Simple Cubic and Body-Centered Lattice Structures
 
-This project was developed as part of graduate work in additive manufacturing (ME569), focusing on simulation-driven comparison of lattice unit-cell architectures.
+This project was developed as part of graduate work in additive manufacturing (ME569), focusing on simulation-driven comparison of lattice unit-cell architectures under compression (5% strain).
 
